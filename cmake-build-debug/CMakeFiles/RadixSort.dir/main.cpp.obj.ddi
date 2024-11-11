@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\RadixSort.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\Users\\kayss\\OneDrive\\Documentos\\6 periodo\\Programação Paralela\\src\\RadixSort\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\RadixSort.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}

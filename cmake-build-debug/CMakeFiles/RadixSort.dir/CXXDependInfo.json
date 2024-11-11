@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "MSVC",
+	"compiler-id" : "MSVC",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "C:/Users/kayss/OneDrive/Documentos/6 periodo/Programa\u00e7\u00e3o Paralela/src/RadixSort/cmake-build-debug",
+	"dir-cur-src" : "C:/Users/kayss/OneDrive/Documentos/6 periodo/Programa\u00e7\u00e3o Paralela/src/RadixSort",
+	"dir-top-bld" : "C:/Users/kayss/OneDrive/Documentos/6 periodo/Programa\u00e7\u00e3o Paralela/src/RadixSort/cmake-build-debug",
+	"dir-top-src" : "C:/Users/kayss/OneDrive/Documentos/6 periodo/Programa\u00e7\u00e3o Paralela/src/RadixSort",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "C:/Users/kayss/OneDrive/Documentos/6 periodo/Programa\u00e7\u00e3o Paralela/src/RadixSort/cmake-build-debug/CMakeFiles/RadixSort.dir"
+}
